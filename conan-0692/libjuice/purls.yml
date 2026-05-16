@@ -1,0 +1,3 @@
+- pkg:conan/libjuice@1.5.7
+- pkg:conan/libjuice@1.6.2
+- pkg:conan/libjuice@1.7.0

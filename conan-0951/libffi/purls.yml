@@ -1,0 +1,4 @@
+- pkg:conan/libffi@3.3
+- pkg:conan/libffi@3.4.4
+- pkg:conan/libffi@3.4.6
+- pkg:conan/libffi@3.4.8

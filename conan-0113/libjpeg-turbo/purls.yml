@@ -1,0 +1,5 @@
+- pkg:conan/libjpeg-turbo@2.1.5
+- pkg:conan/libjpeg-turbo@3.0.0
+- pkg:conan/libjpeg-turbo@3.0.1
+- pkg:conan/libjpeg-turbo@3.0.2
+- pkg:conan/libjpeg-turbo@3.1.4.1
