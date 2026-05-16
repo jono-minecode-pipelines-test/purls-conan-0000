@@ -1,0 +1,4 @@
+- pkg:conan/libraw@0.20.2
+- pkg:conan/libraw@0.21.2
+- pkg:conan/libraw@0.21.5b
+- pkg:conan/libraw@0.22.1
