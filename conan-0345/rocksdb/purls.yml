@@ -1,0 +1,2 @@
+- pkg:conan/rocksdb@10.10.1
+- pkg:conan/rocksdb@11.1.1
