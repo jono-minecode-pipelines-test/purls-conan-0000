@@ -1,0 +1,5 @@
+- pkg:conan/lua@5.3.5
+- pkg:conan/lua@5.3.6
+- pkg:conan/lua@5.4.6
+- pkg:conan/lua@5.4.8
+- pkg:conan/lua@5.5.0

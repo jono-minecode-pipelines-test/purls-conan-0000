@@ -1,0 +1,4 @@
+- pkg:conan/mimalloc@2.1.2
+- pkg:conan/mimalloc@2.2.4
+- pkg:conan/mimalloc@3.2.8
+- pkg:conan/mimalloc@3.3.2
