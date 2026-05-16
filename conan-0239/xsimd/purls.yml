@@ -1,0 +1,4 @@
+- pkg:conan/xsimd@13.0.0
+- pkg:conan/xsimd@13.2.0
+- pkg:conan/xsimd@14.1.0
+- pkg:conan/xsimd@14.2.0
