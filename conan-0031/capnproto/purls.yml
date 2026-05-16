@@ -1,0 +1,3 @@
+- pkg:conan/capnproto@1.0.2
+- pkg:conan/capnproto@1.1.0
+- pkg:conan/capnproto@1.3.0

@@ -1,0 +1,16 @@
+- pkg:conan/cgal@5.3.2
+- pkg:conan/cgal@5.5
+- pkg:conan/cgal@5.5.1
+- pkg:conan/cgal@5.5.2
+- pkg:conan/cgal@5.5.3
+- pkg:conan/cgal@5.5.5
+- pkg:conan/cgal@5.6
+- pkg:conan/cgal@5.6.1
+- pkg:conan/cgal@5.6.2
+- pkg:conan/cgal@5.6.3
+- pkg:conan/cgal@6.0
+- pkg:conan/cgal@6.0.1
+- pkg:conan/cgal@6.0.2
+- pkg:conan/cgal@6.0.3
+- pkg:conan/cgal@6.1
+- pkg:conan/cgal@6.1.1
