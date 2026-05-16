@@ -1,0 +1,5 @@
+- pkg:conan/vulkan-memory-allocator@2.3.0
+- pkg:conan/vulkan-memory-allocator@3.0.0
+- pkg:conan/vulkan-memory-allocator@3.0.1
+- pkg:conan/vulkan-memory-allocator@3.3.0
+- pkg:conan/vulkan-memory-allocator@cci.20231120
