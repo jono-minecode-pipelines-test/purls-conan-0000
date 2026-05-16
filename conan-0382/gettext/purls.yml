@@ -1,0 +1,4 @@
+- pkg:conan/gettext@0.21
+- pkg:conan/gettext@0.22.5
+- pkg:conan/gettext@0.26
+- pkg:conan/gettext@1.0

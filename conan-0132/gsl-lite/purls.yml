@@ -1,0 +1,6 @@
+- pkg:conan/gsl-lite@0.40.0
+- pkg:conan/gsl-lite@0.41.0
+- pkg:conan/gsl-lite@0.42.0
+- pkg:conan/gsl-lite@0.43.0
+- pkg:conan/gsl-lite@1.0.1
+- pkg:conan/gsl-lite@1.1.0
