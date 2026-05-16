@@ -1,0 +1,8 @@
+- pkg:conan/openssl@1.1.1w
+- pkg:conan/openssl@3.0.20
+- pkg:conan/openssl@3.1.2
+- pkg:conan/openssl@3.2.6
+- pkg:conan/openssl@3.3.7
+- pkg:conan/openssl@3.4.5
+- pkg:conan/openssl@3.5.6
+- pkg:conan/openssl@3.6.2

@@ -1,0 +1,4 @@
+- pkg:conan/opencl-icd-loader@2023.02.06
+- pkg:conan/opencl-icd-loader@2023.04.17
+- pkg:conan/opencl-icd-loader@2023.12.14
+- pkg:conan/opencl-icd-loader@2025.07.22

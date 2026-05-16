@@ -1,0 +1,4 @@
+- pkg:conan/opentelemetry-cpp@1.21.0
+- pkg:conan/opentelemetry-cpp@1.22.0
+- pkg:conan/opentelemetry-cpp@1.24.0
+- pkg:conan/opentelemetry-cpp@1.26.0
