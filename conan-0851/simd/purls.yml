@@ -1,0 +1,4 @@
+- pkg:conan/simd@6.1.138
+- pkg:conan/simd@6.1.142
+- pkg:conan/simd@6.1.143
+- pkg:conan/simd@6.2.155
