@@ -1,0 +1,9 @@
+- pkg:conan/icu@73.1
+- pkg:conan/icu@73.2
+- pkg:conan/icu@74.1
+- pkg:conan/icu@74.2
+- pkg:conan/icu@75.1
+- pkg:conan/icu@76.1
+- pkg:conan/icu@77.1
+- pkg:conan/icu@78.1
+- pkg:conan/icu@78.2

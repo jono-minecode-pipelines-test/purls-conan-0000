@@ -1,0 +1,9 @@
+- pkg:conan/imgui@1.85
+- pkg:conan/imgui@1.87
+- pkg:conan/imgui@1.88
+- pkg:conan/imgui@1.90.5
+- pkg:conan/imgui@1.90.5-docking
+- pkg:conan/imgui@1.91.8
+- pkg:conan/imgui@1.91.8-docking
+- pkg:conan/imgui@1.92.7
+- pkg:conan/imgui@1.92.7-docking
