@@ -1,0 +1,2 @@
+- pkg:conan/kaitai_struct_cpp_stl_runtime@0.10.1
+- pkg:conan/kaitai_struct_cpp_stl_runtime@0.11

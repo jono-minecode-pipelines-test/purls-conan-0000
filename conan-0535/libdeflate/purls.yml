@@ -1,0 +1,8 @@
+- pkg:conan/libdeflate@1.10
+- pkg:conan/libdeflate@1.12
+- pkg:conan/libdeflate@1.14
+- pkg:conan/libdeflate@1.22
+- pkg:conan/libdeflate@1.25
+- pkg:conan/libdeflate@1.7
+- pkg:conan/libdeflate@1.8
+- pkg:conan/libdeflate@1.9
