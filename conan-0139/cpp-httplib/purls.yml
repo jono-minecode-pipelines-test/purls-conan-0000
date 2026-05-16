@@ -1,0 +1,3 @@
+- pkg:conan/cpp-httplib@0.28.0
+- pkg:conan/cpp-httplib@0.39.0
+- pkg:conan/cpp-httplib@0.44.0
