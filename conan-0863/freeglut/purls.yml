@@ -1,0 +1,4 @@
+- pkg:conan/freeglut@3.2.1
+- pkg:conan/freeglut@3.2.2
+- pkg:conan/freeglut@3.4.0
+- pkg:conan/freeglut@3.8.0
